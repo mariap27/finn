@@ -1,0 +1,59 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff;
+  user-select: none;
+  scroll-behavior: smooth;
+    font-family: "calibri";
+}
+
+h1 {
+  color: #000000;
+  font-size: 4vw;
+  text-decoration: none;
+  text-align: center;
+}
+
+p {
+  font-size: 2vw;
+  text-align: left;
+}
+
+img {
+  width: 200%;
+  height: auto;
+}
+
+.project {
+  width: 33%;
+  margin-top: 8%;
+  margin-left: 16%;
+  text-align: center;
+}
+
+.story {
+  position: absolute;
+  width: 50%;
+  margin-top: 8%;
+  text-align: center;
+}
+
+.alleenjpgs {
+  width: 33%;
+}
+
+.paragraph {
+  position: absolute;
+  width: 50%;
+  margin-top: 8%;
+  margin-left: 55%;
+  text-align: center;
+}
+
+.paragraph_imgs{
+  width: 60%;
+}
+
+.email {
+  text-align: center;
+}
